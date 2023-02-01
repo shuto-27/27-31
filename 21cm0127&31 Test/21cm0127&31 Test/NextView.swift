@@ -4,6 +4,7 @@
 //
 //  Created by cmStudent on 2023/01/11.
 //
+//決定ボタンを押したらkaitouViewに保存できるようにボタンのプログラムの変更がしたい
 import SwiftUI
 
 struct NextView: View {
